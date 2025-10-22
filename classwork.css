@@ -1,0 +1,32 @@
+
+.main{
+
+width: 400px;
+
+margin: 0 auto;
+padding: 20px;
+background-color: #9baa92; 
+  border-radius: 23px;
+  margin-top: 43px;
+}
+
+
+
+.submit{
+
+align-items: center;
+align-content: center;
+align-self: center;
+background-color: dodgerblue;
+color: azure;
+
+transition: width 0.5s ease-in-out;
+cursor: pointer;
+
+
+}
+
+
+
+
+
